@@ -26,7 +26,7 @@
 ```yaml
 name:       Timothy Bayode
 location:   Nigeria 🇳🇬
-role:       Software Engineer · Frontend Developer
+role:       Software Engineer · Frontend Developer · React · Typescript
 focus:      [AI, Web3, Fintech]
 approach:   Product engineering, building real things rather than listing stacks
 building:   [family-legacy-platform, multi-chain-identity protocol, FluxPay]
