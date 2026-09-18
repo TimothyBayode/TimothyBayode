@@ -36,7 +36,7 @@ status:     building
 
 <br/>
 
-<h3 align="center"><code>&gt; ls ./projects</code></h3>
+<h3 align="center"><code>&gt; cd projects && ls</code></h3>
 
 <table>
   <tr>
