@@ -5,32 +5,31 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;AI+%C3%97+Web3+%C3%97+Fintech;Building+products%2C+not+just+code;Shipping+from+Nigeria">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=007A69&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;AI+%C3%97+Web3+%C3%97+Fintech;Building+products%2C+not+just+code;Shipping+from+Nigeria">
-  <img alt="Typing animation: Software Engineer, Full-Stack Developer, AI × Web3 × Fintech, building products not just code" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;AI+%C3%97+Web3+%C3%97+Fintech;Building+products%2C+not+just+code;Shipping+from+Nigeria">
+  <img alt="Typing animation: Software Engineer, Frontend Developer, AI × Web3 × Fintech, building products not just code" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;AI+%C3%97+Web3+%C3%97+Fintech;Building+products%2C+not+just+code;Shipping+from+Nigeria">
 </picture>
 
 <sub>🇳🇬 Nigeria &nbsp;·&nbsp; AI × Web3 × Fintech &nbsp;·&nbsp; Product Engineering</sub>
 
 <br/><br/>
 
-<!-- REPLACE: YOUR_X_HANDLE and YOUR_LINKEDIN_SLUG below with your real profile paths -->
 <a href="https://timothybayode.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-00F5D4?style=for-the-badge&logo=vercel&logoColor=black"></a>
 <a href="https://github.com/TimothyBayode"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-21262d?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://x.com/YOUR_X_HANDLE"><img alt="X" src="https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://x.com/TimothyBayode"><img alt="X" src="https://img.shields.io/badge/X-21262d?style=for-the-badge&logo=x&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/timothybayode"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
 
 <br/>
 
-<h3 align="center"><code>&gt; whoami</code></h3>
+<h3 align="center"><code>&gt; whoIS</code></h3>
 
 ```yaml
 name:       Timothy Bayode
 location:   Nigeria 🇳🇬
-role:       Software Engineer · Full-Stack Developer
+role:       Software Engineer · Frontend Developer
 focus:      [AI, Web3, Fintech]
 approach:   Product engineering, building real things rather than listing stacks
-building:   [family-legacy-platform, multi-chain-identity, FluxPay]
+building:   [family-legacy-platform, multi-chain-identity protocol, FluxPay]
 portfolio:  timothybayode.vercel.app
 status:     building
 ```
