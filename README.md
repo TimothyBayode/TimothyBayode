@@ -15,7 +15,7 @@
 
 </div>---
 
-"> whoami"
+"> whois"
 
 name:        Timothy Bayode
 location:    🇳🇬 Nigeria
