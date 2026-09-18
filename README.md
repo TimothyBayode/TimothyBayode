@@ -3,9 +3,9 @@
 <h1>TIMOTHY BAYODE</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;AI+%C3%97+Web3+%C3%97+Fintech;Building+products%2C+not+just+code;Shipping+from+Nigeria">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=007A69&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;AI+%C3%97+Web3+%C3%97+Fintech;Building+products%2C+not+just+code;Shipping+from+Nigeria">
-  <img alt="Typing animation: Software Engineer, Frontend Developer, AI × Web3 × Fintech, building products not just code" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;AI+%C3%97+Web3+%C3%97+Fintech;Building+products%2C+not+just+code;Shipping+from+Nigeria">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer+%C2%B7+Frontend+Developer;AI+%C3%97+Web3+%C3%97+Fintech;Building+products%2C+not+just+code;Shipping+from+Nigeria">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=007A69&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer+%C2%B7+Frontend+Developer;AI+%C3%97+Web3+%C3%97+Fintech;Building+products%2C+not+just+code;Shipping+from+Nigeria">
+  <img alt="Typing animation: Software Engineer, Frontend Developer, AI × Web3 × Fintech, building products not just code" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=00F5D4&center=true&vCenter=true&width=720&height=50&lines=Software+Engineer+%C2%B7+Frontend-Stack+Developer;AI+%C3%97+Web3+%C3%97+Fintech;Building+products%2C+not+just+code;Shipping+from+Nigeria">
 </picture>
 
 <sub>🇳🇬 Nigeria &nbsp;·&nbsp; AI × Web3 × Fintech &nbsp;·&nbsp; Product Engineering</sub>
