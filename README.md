@@ -36,32 +36,6 @@ status:     building
 
 <br/>
 
-<h3 align="center"><code>&gt; currently_building</code></h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <h4>🤖 AI</h4>
-      <b>AI-powered family<br/>legacy platform</b><br/><br/>
-      <sub><code>in progress</code></sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h4>⛓️ WEB3</h4>
-      <b>Multi-chain<br/>identity protocol</b><br/><br/>
-      <sub><code>in progress</code></sub>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h4>💳 FINTECH</h4>
-      <b>FluxPay<br/>Pay · Invest · Own</b><br/><br/>
-      <sub><code>in progress</code></sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub>Work in progress, not publicly launched. The repositories below are the public work.</sub></p>
-
-<br/>
-
 <h3 align="center"><code>&gt; ls ./projects</code></h3>
 
 <table>
